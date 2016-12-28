@@ -23,7 +23,7 @@ public class Login extends BaseClassOne  {
 		
 		//openbrowser();
 		Properties prop = new Properties();
-		FileInputStream fis = new FileInputStream("C:\\Users\\Arun1919\\workspace\\1stFrameWork\\src\\datadriver.properties");
+		FileInputStream fis = new FileInputStream("C:\\Users\\Arun1919\\git\\Health4All\\Health4All\\src\\datadriver.properties");
 		prop.load(fis);
 		driver.findElement(By.cssSelector("input[name='username']")).sendKeys(prop.getProperty("username"));
 		driver.findElement(By.cssSelector("input[name='password']")).sendKeys(prop.getProperty("password"));
