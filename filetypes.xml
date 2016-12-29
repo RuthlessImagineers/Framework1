@@ -4,6 +4,7 @@
       <mapping pattern="Case3" type="CLASS" />
       <mapping pattern="Home_Page" type="CLASS" />
       <mapping ext="exe" type="Native" />
+      <mapping pattern="log4j" type="XML" />
     </extensionMap>
   </component>
 </application>
