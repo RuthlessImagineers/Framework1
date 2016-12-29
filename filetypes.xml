@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Case3" type="CLASS" />
+      <mapping pattern="Home_Page" type="CLASS" />
       <mapping ext="exe" type="Native" />
     </extensionMap>
   </component>
