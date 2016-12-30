@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name = "1st Framework">
+<test name = "health4all">
+    <classes>
+
+        <class name = "testCases.Parm_TC"/>
+
+    </classes>
+
+
+</test>
+
+
+</suite>

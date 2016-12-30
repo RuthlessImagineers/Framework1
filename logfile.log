@@ -1,0 +1,51 @@
+2016-12-30 13:07:37,192 INFO  [Log] **************************************************************************************** 
+2016-12-30 13:07:37,192 INFO  [Log] **************************************************************************************** 
+2016-12-30 13:07:37,192 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-30 13:07:37,192 INFO  [Log] **************************************************************************************** 
+2016-12-30 13:07:37,192 INFO  [Log] **************************************************************************************** 
+2016-12-30 13:07:38,277 INFO  [Log] Excel opened 
+2016-12-30 13:07:45,457 INFO  [Log] Driver intiated 
+2016-12-30 13:07:45,582 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-12-30 13:07:48,269 INFO  [Log] WebSite launched 
+2016-12-30 13:07:48,296 INFO  [Log] Username picked from Excel isadmin 
+2016-12-30 13:07:48,297 INFO  [Log] Password picked from Excel isPassword 
+2016-12-30 13:07:48,322 INFO  [Log] Username text box found 
+2016-12-30 13:07:48,383 INFO  [Log] Username entered in username box  
+2016-12-30 13:07:48,395 INFO  [Log] Password text found 
+2016-12-30 13:07:48,432 INFO  [Log] Password entered in password box 
+2016-12-30 13:07:48,442 INFO  [Log] Submit button found 
+2016-12-30 13:07:49,736 INFO  [Log] Click action performed on signin 
+2016-12-30 15:51:07,163 INFO  [Log] **************************************************************************************** 
+2016-12-30 15:51:07,163 INFO  [Log] **************************************************************************************** 
+2016-12-30 15:51:07,163 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-30 15:51:07,163 INFO  [Log] **************************************************************************************** 
+2016-12-30 15:51:07,163 INFO  [Log] **************************************************************************************** 
+2016-12-30 15:51:08,692 INFO  [Log] Excel opened 
+2016-12-30 15:51:31,521 INFO  [Log] Driver intiated 
+2016-12-30 15:51:32,543 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-12-30 15:51:46,680 INFO  [Log] WebSite launched 
+2016-12-30 15:51:46,753 INFO  [Log] Username picked from Excel isadmin 
+2016-12-30 15:51:46,753 INFO  [Log] Password picked from Excel isPassword 
+2016-12-30 15:51:47,010 INFO  [Log] Username text box found 
+2016-12-30 15:51:47,339 INFO  [Log] Username entered in username box  
+2016-12-30 15:51:47,417 INFO  [Log] Password text found 
+2016-12-30 15:51:47,506 INFO  [Log] Password entered in password box 
+2016-12-30 15:51:47,555 INFO  [Log] Submit button found 
+2016-12-30 15:51:50,462 INFO  [Log] Click action performed on signin 
+2016-12-30 15:59:09,786 INFO  [Log] **************************************************************************************** 
+2016-12-30 15:59:09,787 INFO  [Log] **************************************************************************************** 
+2016-12-30 15:59:09,787 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-30 15:59:09,787 INFO  [Log] **************************************************************************************** 
+2016-12-30 15:59:09,787 INFO  [Log] **************************************************************************************** 
+2016-12-30 15:59:10,961 INFO  [Log] Excel opened 
+2016-12-30 15:59:29,299 INFO  [Log] Driver intiated 
+2016-12-30 15:59:29,795 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-12-30 15:59:37,055 INFO  [Log] WebSite launched 
+2016-12-30 15:59:37,161 INFO  [Log] Username picked from Excel isadmin 
+2016-12-30 15:59:37,161 INFO  [Log] Password picked from Excel isPassword 
+2016-12-30 15:59:37,375 INFO  [Log] Username text box found 
+2016-12-30 15:59:38,747 INFO  [Log] Username entered in username box  
+2016-12-30 15:59:39,274 INFO  [Log] Password text found 
+2016-12-30 15:59:39,470 INFO  [Log] Password entered in password box 
+2016-12-30 15:59:39,611 INFO  [Log] Submit button found 
+2016-12-30 15:59:40,967 INFO  [Log] Click action performed on signin 
